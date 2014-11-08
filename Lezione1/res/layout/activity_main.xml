@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/linearLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textViewHello"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/hello_world"
+        android:textSize="35sp"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/textViewSchool"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/school"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/textViewLesson"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/lesson"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvContatore"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Contatore = 0" 
+        android:gravity="center"
+        android:textSize="35sp"
+        android:textStyle="bold" />
+    
+    <Button
+        android:id="@+id/bAdd"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Aggiungi [1]" />
+
+    <Button
+        android:id="@+id/bSub"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Sottrai [1]" />
+    
+</LinearLayout>
