@@ -2,7 +2,7 @@
 ![Key Orchestra](https://raw.githubusercontent.com/rdgmus/PhpProjects/GitHubPhpRegistroScuola/images/Cbasso1.png)
 
 #Corso Android Developer Tools #
-![Key Orchestra](https://github.com/rdgmus/Eclipse-Projects/blob/master/Luxemburg/screenshotLezione1.png)
+![Key Orchestra](https://github.com/rdgmus/Luxemburg/blob/master/Lezione%20PATCH/res/drawable-xxhdpi/ic_launcher.png)
 
 #PATCH LEZIONI#
 
