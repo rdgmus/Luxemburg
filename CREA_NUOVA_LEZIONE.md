@@ -17,21 +17,26 @@ Tutti i passi elencati vanno eseguiti correttamente e nell'ordine per avere una 
 
 ##2. Creare il nuovo progetto di applicazione Android, con l'opzione _[CREA DA CODICE ESISTENTE]_; questo ci porterà ad individuare la cartella _[LEZIONE PATCH]_ dal quale estrarre il codice. Al termine di questa procedura ci troveremo con un nuovo progetto avente il nome che abbiamo digitato durante la creazione, nel nostro _workspace_ sotto Eclipse IDE.
 
-###FILE => NEW=> OTHER
+###_FILE => NEW=> OTHER_
 ![Crea Lezione passo 2.1](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo2.1.png)
 
-###ANDROID PROJECT FROM EXISTING CODE
+###_ANDROID PROJECT FROM EXISTING CODE_
 ![Crea Lezione passo 2.2](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo2.2.png)
 
+###_BROWSE_ 
 ![Crea Lezione passo 2.3](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo2.3.png)
 
+###Seleziona _Lezione PATCH => Apri_
 ![Crea Lezione passo 2.4](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo2.4.png)
 
+###_New Project Name_
 ![Crea Lezione passo 2.5](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo2.5.png)
 
+###_Select Project To Import_
 ![Crea Lezione passo 2.6](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo2.6.png)
 
 ##3. Cambiamo nome al package contenente _MainActivity.java_ , sotto la cartella _/src_
+
 
 ##4. Cambiamo nome al package nel file _AndroidManifest.xml_
 
