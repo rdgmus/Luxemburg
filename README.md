@@ -13,7 +13,7 @@
 #PATCH LEZIONI
 _(Solo per sviluppatori!)_
 
-PATCH da applicare alle nuove lezioni per avere un'applicazione Android che per default contiene una
+>PATCH da applicare alle nuove lezioni per avere un'applicazione Android che per default contiene una
 sola Activity senza Fragments.
 L'articolo seguente (author:http://stackoverflow.com/users/3960700/naruto) chiarifica i passi da eseguire
 per ottenere tale risultato a partire dai file creati per default da Android Developer Tools.
