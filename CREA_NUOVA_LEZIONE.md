@@ -51,15 +51,16 @@ Selezionare la riga del progetto nella tabella e cliccare _Finish_
 
 ![Crea Lezione passo 3.4](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo3.4.png)
 
-
-##4. Cambiamo nome al package nel file _AndroidManifest.xml_
+##4. Modificiamo se necessario i nomi dei package utilizzati da _MainActivity.java_
 ![Crea Lezione passo 4.1](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo4.1.png)
 ![Crea Lezione passo 4.2](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo4.2.png)
 
-##5. Rinominare il file _Lezione[num. lezione].apk_ appropriatamente
+##5. Cambiamo nome al package nel file _AndroidManifest.xml_
+
+##6. Rinominare il file _Lezione[num. lezione].apk_ appropriatamente
 ![Crea Lezione passo 5.1](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo5.1.png)
 ![Crea Lezione passo 5.2](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo5.2.png)
 ![Crea Lezione passo 5.3](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo5.3.png)
 ![Crea Lezione passo 5.4](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo5.4.png)
 
-##6. Cambiare la stringa che da il titolo all'applicazione e che compare nell'header del tablet o smartphone o comunque nell'emulatore, appropriatamente.
+##7. Cambiare la stringa che da il titolo all'applicazione e che compare nell'header del tablet o smartphone o comunque nell'emulatore, appropriatamente.
