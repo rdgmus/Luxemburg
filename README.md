@@ -1,5 +1,6 @@
-#README - ![Key Orchestra](https://github.com/rdgmus/Luxemburg/blob/master/Lezione%20PATCH/res/drawable-xxhdpi/ic_launcher.png)
-##Corso Android Developer Tools - IPIA ROSA LUXEMBURG ![Key Orchestra](https://raw.githubusercontent.com/rdgmus/PhpProjects/GitHubPhpRegistroScuola/images/Cbasso1.png)
+![Key Orchestra](https://github.com/rdgmus/Luxemburg/blob/master/Lezione%20PATCH/res/drawable-xxhdpi/ic_launcher.png)#README
+![Key Orchestra](https://raw.githubusercontent.com/rdgmus/PhpProjects/GitHubPhpRegistroScuola/images/Cbasso1.png)
+##Corso Android Developer Tools - IPIA ROSA LUXEMBURG 
 
 ***
 
