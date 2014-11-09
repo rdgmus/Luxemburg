@@ -35,6 +35,7 @@ Seleziona la cartella e clicca _Apri_
 
 ###_New Project Name_
 Cambiamo il nome del progetto nella colonna _Project Name_ della tabella che è apparsa sul monitor; nel nostro caso il nome sarà la stringa _Lezione{seguita dal numero della lezione}_
+Selezionare la checkbox _Copy Project into Workspace_ 
 ![Crea Lezione passo 2.5](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo2.5.png)
 
 ###_Select Project To Import => Finish_
