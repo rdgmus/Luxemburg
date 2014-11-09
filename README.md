@@ -10,7 +10,8 @@
 #COMUNICAZIONI AI CORSISTI
 [BACHECA](BACHECA.md)
 
-#PATCH LEZIONI# _(Solo per sviluppatori!)_
+#PATCH LEZIONI
+_(Solo per sviluppatori!)_
 
 PATCH da applicare alle nuove lezioni per avere un'applicazione Android che per default contiene una
 sola Activity senza Fragments.
