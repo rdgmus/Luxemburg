@@ -16,12 +16,3 @@
 
 [DISTRIBUIRE APPLICAZIONI AL MONDO](https://support.google.com/googleplay/android-developer/answer/113469?hl=en)
 
-
-
-***
-
-#FILE TRANSFER#
-#[Home](README.md)
-##Scaricare e installare applicazioni da MAC a dispositivo Android
-![Android File Transfer](https://github.com/rdgmus/Eclipse-Projects/blob/master/Luxemburg/AndroidFileTransfer.png)
-https://www.android.com/filetransfer/
