@@ -1,11 +1,9 @@
-#README - Corso Android Developer Tools
-
-#IPIA ROSA LUXEMBURG 2014/2015#
+![Key Orchestra](https://github.com/rdgmus/Luxemburg/blob/master/Lezione%20PATCH/res/drawable-xxhdpi/ic_launcher.png)
+#README - Corso Android Developer Tools - IPIA ROSA LUXEMBURG 2014/2015#
 
 ![Key Orchestra](https://raw.githubusercontent.com/rdgmus/PhpProjects/GitHubPhpRegistroScuola/images/Cbasso1.png)
 
 ***
-![Key Orchestra](https://github.com/rdgmus/Luxemburg/blob/master/Lezione%20PATCH/res/drawable-xxhdpi/ic_launcher.png)
 
 [CREA NUOVA LEZIONE](CREA_NUOVA_LEZIONE.md)
 Procedura per la creazione di una nuova lezione in fase di sviluppo applicazioni per Android.
