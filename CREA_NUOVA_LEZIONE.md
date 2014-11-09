@@ -42,6 +42,13 @@ Selezionare la riga del progetto nella tabella e cliccare _Finish_
 ![Crea Lezione passo 2.6](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo2.6.png)
 
 ##3. Cambiamo nome al package contenente _MainActivity.java_ , sotto la cartella _/src_
+![Crea Lezione passo 3.1](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo3.1.png)
+
+![Crea Lezione passo 3.2](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo3.2.png)
+
+![Crea Lezione passo 3.3](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo3.3.png)
+
+![Crea Lezione passo 3.4](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo3.4.png)
 
 
 ##4. Cambiamo nome al package nel file _AndroidManifest.xml_
