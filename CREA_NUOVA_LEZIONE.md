@@ -1,4 +1,5 @@
-[Home](https://github.com/rdgmus/Luxemburg.git)
+#[Home](README.md)
+
 #Come creare una nuova lezione per il corso Android
 >
 Tutti i passi elencati vanno eseguiti correttamente e nell'ordine per avere una lezione pronta per essere corredata del nostro codice personale e quindi ben inizializzata per gli scopi del corso di istruzione su _Android Developer Tools_
