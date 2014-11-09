@@ -8,6 +8,7 @@ sola Activity senza Fragments.
 L'articolo seguente (author:http://stackoverflow.com/users/3960700/naruto) chiarifica i passi da eseguire
 per ottenere tale risultato a partire dai file creati per default da Android Developer Tools.
 Tali passi per altro sono da me già stati eseguiti ottenendo i file di progetto finali che trovate in questa cartella. Potete scaricare la patch e copiarla nella directory della nuova applicazione Android creata.
+Vedi => [CREA NUOVA LEZIONE](CREA_NUOVA_LEZIONE.md)
 
 ##Why eclipse automatically adds appcompat v7 library support whenever i create a new project?
 
