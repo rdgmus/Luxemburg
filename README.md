@@ -4,6 +4,7 @@
 ##Corso Android Developer Tools - IPIA ROSA LUXEMBURG 
 ![Key Orchestra](https://github.com/rdgmus/Luxemburg/blob/master/Lezione%20PATCH/res/drawable-xxhdpi/ic_launcher.png)
 
+[Lezione 1](https://github.com/rdgmus/Luxemburg/tree/master/Lezione1)
 ***
 
 [CREA NUOVA LEZIONE](CREA_NUOVA_LEZIONE.md)
