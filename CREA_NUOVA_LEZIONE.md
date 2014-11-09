@@ -17,8 +17,10 @@ Tutti i passi elencati vanno eseguiti correttamente e nell'ordine per avere una 
 
 ##2. Creare il nuovo progetto di applicazione Android, con l'opzione _[CREA DA CODICE ESISTENTE]_; questo ci porterà ad individuare la cartella _[LEZIONE PATCH]_ dal quale estrarre il codice. Al termine di questa procedura ci troveremo con un nuovo progetto avente il nome che abbiamo digitato durante la creazione, nel nostro _workspace_ sotto Eclipse IDE.
 
+###FILE => NEW=> OTHER
 ![Crea Lezione passo 2.1](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo2.1.png)
 
+###ANDROID PROJECT FROM EXISTING CODE
 ![Crea Lezione passo 2.2](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo2.2.png)
 
 ![Crea Lezione passo 2.3](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo2.3.png)
