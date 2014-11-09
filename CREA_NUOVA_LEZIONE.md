@@ -1,14 +1,16 @@
 #Come creare una nuova lezione per il corso Android
->Tutti i passi elencati vanno eseguiti correttamente e nell'ordine per avere una lezione pronta per essere corredata del nostro codice personale e quindi ben inizializzata per gli scopi del corso di istruzione su _Android Developer Tools_
+>
+Tutti i passi elencati vanno eseguiti correttamente e nell'ordine per avere una lezione pronta per essere corredata del nostro codice personale e quindi ben inizializzata per gli scopi del corso di istruzione su _Android Developer Tools_
 
-##(1) Scaricare sul desktop/scrivania lo _ZIP_ contenente la PATCH (_volgarmente toppa_) da utilizzare per settare i parametri iniziali della lezione. Salvare lo zip ed estrarre il codice (_UNZIP_). Annotare la posizione della cartella per il punto (2)
 
-##(2) Creare il nuovo progetto di applicazione Android, con l'opzione _[CREA DA CODICE ESISTENTE]_; questo ci porterà ad individuare la cartella _[LEZIONE PATCH]_ dal quale estrarre il codice. Al termine di questa procedura ci troveremo con un nuovo progetto avente il nome che abbiamo digitato durante la creazione, nel nostro _workspace_ sotto Eclipse IDE.
+1. Scaricare sul desktop/scrivania lo _ZIP_ contenente la PATCH (_volgarmente toppa_) da utilizzare per settare i parametri iniziali della lezione. Salvare lo zip ed estrarre il codice (_UNZIP_). Annotare la posizione della cartella per il punto (2)
 
-##(3) Cambiamo nome al package contenente _MainActivity.java_ , sotto la cartella _/src_
+2. Creare il nuovo progetto di applicazione Android, con l'opzione _[CREA DA CODICE ESISTENTE]_; questo ci porterà ad individuare la cartella _[LEZIONE PATCH]_ dal quale estrarre il codice. Al termine di questa procedura ci troveremo con un nuovo progetto avente il nome che abbiamo digitato durante la creazione, nel nostro _workspace_ sotto Eclipse IDE.
 
-##(4) Cambiamo nome al package nel file _AndroidManifest.xml_
+3. Cambiamo nome al package contenente _MainActivity.java_ , sotto la cartella _/src_
 
-##(5) Rinominare il file _Lezione[num. lezione].apk_ appropriatamente
+4. Cambiamo nome al package nel file _AndroidManifest.xml_
 
-##(6) Cambiare la stringa che da il titolo all'applicazione e che compare nell'header del tablet o smartphone o comunque nell'emulatore, appropriatamente.
+5. Rinominare il file _Lezione[num. lezione].apk_ appropriatamente
+
+6. Cambiare la stringa che da il titolo all'applicazione e che compare nell'header del tablet o smartphone o comunque nell'emulatore, appropriatamente.
