@@ -4,6 +4,8 @@
 #Corso Android Developer Tools #
 ![Key Orchestra](https://github.com/rdgmus/Luxemburg/blob/master/Lezione%20PATCH/res/drawable-xxhdpi/ic_launcher.png)
 
+#Passi per la creazione di una nuova lezione
+[CREA_NUOVA_LEZIONE](CREA_NUOVA_LEZIONE.md)
 #PATCH LEZIONI#
 
 PATCH da applicare alle nuove lezioni per avere un'applicazione Android che per default contiene una
