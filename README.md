@@ -11,7 +11,7 @@
 >Procedura per la creazione di una nuova lezione in fase di sviluppo applicazioni per Android.
 
 [FILE TRANSFER](FILE_TRANSFER.md)
->Sito per scaricare ed installare _File Transfer_: applicazione per trasferire gli eseguibili dei progetti creati, all'interno dei device hardware, quali tablets, smartphone, etc..
+>Sito per scaricare ed installare *_File Transfer_*: applicazione per trasferire gli eseguibili dei progetti creati, all'interno dei device hardware, quali tablets, smartphone, etc..
 
 [BACHECA](BACHECA.md)
 >Pagina delle comunicazioni ai corsisti
