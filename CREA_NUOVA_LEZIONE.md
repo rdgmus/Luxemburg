@@ -53,6 +53,8 @@ Selezionare la riga del progetto nella tabella e cliccare _Finish_
 
 
 ##4. Cambiamo nome al package nel file _AndroidManifest.xml_
+![Crea Lezione passo 4.1](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo4.1.png)
+![Crea Lezione passo 4.2](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo4.2.png)
 
 ##5. Rinominare il file _Lezione[num. lezione].apk_ appropriatamente
 
