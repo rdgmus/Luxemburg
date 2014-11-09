@@ -56,7 +56,7 @@ Selezionare la riga del progetto nella tabella e cliccare _Finish_
 ![Crea Lezione passo 4.2](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo4.2.png)
 
 ##5. Cambiamo nome al package nel file _AndroidManifest.xml_
-![Crea Lezione passo 5.1](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo5.1.png)
+![Crea Lezione passo 5.1](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20Lezione%20passo5.1.png)
 
 ##6. Rinominare il file _Lezione[num. lezione].apk_ appropriatamente
 ![Crea Lezione passo 6.1](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo6.1.png)
@@ -65,3 +65,4 @@ Selezionare la riga del progetto nella tabella e cliccare _Finish_
 ![Crea Lezione passo 6.4](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo6.4.png)
 
 ##7. Cambiare la stringa che da il titolo all'applicazione e che compare nell'header del tablet o smartphone o comunque nell'emulatore, appropriatamente.
+![Crea Lezione passo 7.1](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo7.1.png)
