@@ -1,10 +1,12 @@
 #README#
 
-[Come creare una nuova lezione per il corso Android - Rosa Luxemburg](CREA_NUOVA_LEZIONE.md)
+[CREA NUOVA LEZIONE](CREA_NUOVA_LEZIONE.md)
+
+[FILE TRANSFER](https://github.com/rdgmus/Luxemburg/blob/master/README.md#file-transfer)
 
 [BACHECA](BACHECA.md)
 
-[File Transfer](https://github.com/rdgmus/Luxemburg/blob/master/README.md#file-transfer)
+[PATCH LEZIONI](PATCH_LEZIONI.md)
 
 ![Key Orchestra](https://raw.githubusercontent.com/rdgmus/PhpProjects/GitHubPhpRegistroScuola/images/Cbasso1.png)
 
