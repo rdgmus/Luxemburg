@@ -18,21 +18,27 @@ Tutti i passi elencati vanno eseguiti correttamente e nell'ordine per avere una 
 ##2. Creare il nuovo progetto di applicazione Android, con l'opzione _[CREA DA CODICE ESISTENTE]_; questo ci porterà ad individuare la cartella _[LEZIONE PATCH]_ dal quale estrarre il codice. Al termine di questa procedura ci troveremo con un nuovo progetto avente il nome che abbiamo digitato durante la creazione, nel nostro _workspace_ sotto Eclipse IDE.
 
 ###_FILE => NEW=> OTHER_
+Scegli un altro tipo di progetto _Android Application_
 ![Crea Lezione passo 2.1](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo2.1.png)
 
 ###_ANDROID PROJECT FROM EXISTING CODE_
+Nello specifico seleziona _Android Project from existing code_
 ![Crea Lezione passo 2.2](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo2.2.png)
 
 ###_BROWSE_ 
+Si apre la finestra sul vs. Mac per individuare la cartella _Lezione PATCH_ contenuta nello _ZIP_ che hai scaricato al punto (2) e di cui hai preso nota. 
 ![Crea Lezione passo 2.3](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo2.3.png)
 
 ###Seleziona _Lezione PATCH => Apri_
+Seleziona la cartella e clicca _Apri_
 ![Crea Lezione passo 2.4](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo2.4.png)
 
 ###_New Project Name_
+Cambiamo il nome del progetto nella colonna _Project Name_ della tabella che è apparsa sul monitor; nel nostro caso il nome sarà la stringa _Lezione{seguita dal numero della lezione}_
 ![Crea Lezione passo 2.5](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo2.5.png)
 
-###_Select Project To Import_
+###_Select Project To Import => Finish_
+Selezionare la riga del progetto nella tabella e cliccare _Finish_
 ![Crea Lezione passo 2.6](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo2.6.png)
 
 ##3. Cambiamo nome al package contenente _MainActivity.java_ , sotto la cartella _/src_
