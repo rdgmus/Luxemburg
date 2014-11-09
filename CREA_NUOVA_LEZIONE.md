@@ -58,9 +58,9 @@ Selezionare la riga del progetto nella tabella e cliccare _Finish_
 ##5. Cambiamo nome al package nel file _AndroidManifest.xml_
 
 ##6. Rinominare il file _Lezione[num. lezione].apk_ appropriatamente
-![Crea Lezione passo 5.1](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo5.1.png)
-![Crea Lezione passo 5.2](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo5.2.png)
-![Crea Lezione passo 5.3](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo5.3.png)
-![Crea Lezione passo 5.4](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo5.4.png)
+![Crea Lezione passo 6.1](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo6.1.png)
+![Crea Lezione passo 6.2](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo6.2.png)
+![Crea Lezione passo 6.3](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo6.3.png)
+![Crea Lezione passo 6.4](https://github.com/rdgmus/Luxemburg/blob/master/images/Crea%20lezione%20passo6.4.png)
 
 ##7. Cambiare la stringa che da il titolo all'applicazione e che compare nell'header del tablet o smartphone o comunque nell'emulatore, appropriatamente.
