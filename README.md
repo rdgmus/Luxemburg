@@ -7,7 +7,7 @@
 
 Android è per la quasi totalità Free and Open Source Software (ad esclusione per esempio dei driver non-liberi inclusi per i produttori di dispositivi) ed è rilasciato sotto i termini della licenza libera Apache 2.0.[6]
 
-[Android](http://it.wikipedia.org/wiki/Android)
+[Android WIKI](http://it.wikipedia.org/wiki/Android)
 
 [Lezione 1](https://github.com/rdgmus/Luxemburg/tree/master/Lezione1)
 ***
