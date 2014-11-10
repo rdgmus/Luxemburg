@@ -1,5 +1,5 @@
 # LEZIONE 1 #
->###In questa lezione: 
+>###__OBIETTIVI:__
 1. _**LinearLayout, TextView, Button, OnClickListener(){}**_
 2. Concetti di base per il restyling delle view, implementazione delle variabili e loro link agli oggetti visibili (_**widget**_), cattura dell'**evento onClick del Button** e funzione _**TextView.setText()**_.
 3. _**AVD(Android Virtual Device)**_: creazione e avviamento dell'emulatore.
