@@ -7,7 +7,7 @@ Se sei arrivata/o a questa pagina, molto probabilmente sei interessata/o al cors
 ##~~10 Novembre 2014 - Lezione 1 - 14:30 16:30~~ 
 ##17 Novembre 2014 - Lezione 2 - 14:30 16:30 ![prossima lezione](https://github.com/rdgmus/Luxemburg/blob/master/images/next%20lesson.png)
 
-###Aula MAC IPIA ROSA LUXEMBURG MILANO
+>###Aula MAC IPIA ROSA LUXEMBURG MILANO
 
 **Gianni Natoli - Responsabile del corso**
 
