@@ -1,12 +1,6 @@
 #[Home](README.md)
 
 #Come creare una nuova lezione per il corso Android
-[1. Scarica sul desktop/scrivania lo ZIP contenente la PATCH ](https://github.com/rdgmus/Luxemburg/blob/master/CREA_NUOVA_LEZIONE.md#1)
-
-[2. Crea nuovo progetto](https://github.com/rdgmus/Luxemburg/blob/master/CREA_NUOVA_LEZIONE.md#2)
->
-Tutti i passi elencati vanno eseguiti correttamente e nell'ordine per avere una lezione pronta per essere corredata del nostro codice personale e quindi ben inizializzata per gli scopi del corso di istruzione su _Android Developer Tools_
-
 
 ##1. Scaricare sul desktop/scrivania lo _ZIP_ contenente la PATCH (_volgarmente toppa_) da utilizzare per settare i parametri iniziali della lezione. Salvare lo zip ed estrarre il codice (_UNZIP_). Annotare la posizione della cartella per il punto (2)
 
