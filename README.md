@@ -8,11 +8,11 @@
 
 >[Android WIKI](http://it.wikipedia.org/wiki/Android)
 
->#__Indice lezioni:__
+#__Indice lezioni:__
 [Lezione 1](https://github.com/rdgmus/Luxemburg/tree/master/Lezione1)
 ***
 
->#__README__
+#__README__
 
 [CREA NUOVA LEZIONE](CREA_NUOVA_LEZIONE.md)
 
