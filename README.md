@@ -1,5 +1,5 @@
 ![Key Orchestra](https://raw.githubusercontent.com/rdgmus/PhpProjects/GitHubPhpRegistroScuola/images/Cbasso1.png)
-[under development](images/under development.png)
+[under development](https://github.com/rdgmus/Luxemburg/blob/master/images/under%20development.png)
 ##Corso Android Developer Tools - IPIA ROSA LUXEMBURG 
 ![Key Orchestra](https://github.com/rdgmus/Luxemburg/blob/master/Lezione%20PATCH/res/drawable-xxhdpi/ic_launcher.png)
 >Android è un sistema operativo per dispositivi mobili sviluppato da Google Inc. sulla base del kernel Linux. Android è stato progettato principalmente per smartphone e Tablet, con interfacce utente specializzate per televisori (Android TV), automobili (Android Auto), orologi da polso (Android Wear), occhiali (Google Glass), e altri.
