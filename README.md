@@ -27,7 +27,7 @@
 >Pagina delle comunicazioni ai corsisti
 
 [PATCH LEZIONI](PATCH_LEZIONI.md)
->Patch da applicare ad un progetto Android creato con l'opzione **_Android Applicatio Project_**
+>Patch da applicare ad un progetto Android creato con l'opzione **_Android Application Project_**
 Questa patch è solo rivolta agli sviluppatori, in quanto la trovate già eseguita all'interno della cartella _Lezione PATCH_ che potete scaricare dalla pagina principale del repository **GitHub**.
 
 ***
