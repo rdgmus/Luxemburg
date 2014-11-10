@@ -3,6 +3,11 @@
 #README
 ##Corso Android Developer Tools - IPIA ROSA LUXEMBURG 
 ![Key Orchestra](https://github.com/rdgmus/Luxemburg/blob/master/Lezione%20PATCH/res/drawable-xxhdpi/ic_launcher.png)
+>Android è un sistema operativo per dispositivi mobili sviluppato da Google Inc. sulla base del kernel Linux. Android è stato progettato principalmente per smartphone e Tablet, con interfacce utente specializzate per televisori (Android TV), automobili (Android Auto), orologi da polso (Android Wear), occhiali (Google Glass), e altri.
+
+Android è per la quasi totalità Free and Open Source Software (ad esclusione per esempio dei driver non-liberi inclusi per i produttori di dispositivi) ed è rilasciato sotto i termini della licenza libera Apache 2.0.[6]
+
+[Android](http://it.wikipedia.org/wiki/Android)
 
 [Lezione 1](https://github.com/rdgmus/Luxemburg/tree/master/Lezione1)
 ***
