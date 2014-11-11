@@ -10,7 +10,7 @@
 
 >[Android @WIKIPEDIA](http://it.wikipedia.org/wiki/Android)
 
-#__Indice lezioni:__
+#__Codice Android delle lezioni:__
 [Lezione 1](https://github.com/rdgmus/Luxemburg/tree/master/Lezione1)
 ***
 
