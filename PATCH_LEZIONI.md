@@ -1,4 +1,4 @@
-#[Home](README.md)
+#[Home](https://github.com/rdgmus/Luxemburg/blob/master/README.md#readme)
 
 #PATCH LEZIONI
 _(Solo per sviluppatori!)_
