@@ -1,4 +1,4 @@
-#[Home](README.md)
+#[Home](https://github.com/rdgmus/Luxemburg/blob/master/README.md#readme)
 
 #Come creare una nuova lezione per il corso Android
 
