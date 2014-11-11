@@ -1,5 +1,5 @@
 
-<p><a href="http://rdgmus.github.io/">
+<p><a href="http://rdgmus.github.io/Luxemburg">
           <img src="https://raw.githubusercontent.com/rdgmus/PhpProjects/GitHubPhpRegistroScuola/images/Cbasso1.png" alt="Key Orchestra">
           </a></p>
 #Come creare una nuova lezione per il corso Android
