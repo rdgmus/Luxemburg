@@ -1,5 +1,7 @@
-#[Home](https://github.com/rdgmus/Luxemburg/blob/master/README.md#readme)
 
+<p><a href="http://rdgmus.github.io/">
+          <img src="https://raw.githubusercontent.com/rdgmus/PhpProjects/GitHubPhpRegistroScuola/images/Cbasso1.png" alt="Key Orchestra">
+          </a></p>
 #Come creare una nuova lezione per il corso Android
 
 ##1. Scaricare sul desktop/scrivania lo _ZIP_ contenente la PATCH (_volgarmente toppa_) da utilizzare per settare i parametri iniziali della lezione. Salvare lo zip ed estrarre il codice (_UNZIP_). Annotare la posizione della cartella per il punto (2)
