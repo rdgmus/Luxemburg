@@ -1,4 +1,4 @@
-#[Home](README.md)
+#[Home](https://github.com/rdgmus/Luxemburg/blob/master/README.md#readme)
 
 #Bacheca delle comunicazioni per gli iscritti al corso _Android - Luxemburg 2014/2015_
 
