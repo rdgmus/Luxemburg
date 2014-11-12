@@ -5,4 +5,4 @@
 3. _**AVD(Android Virtual Device)**_: creazione e avviamento dell'emulatore.
 4. _**File Transfer**_: trasferimento delle applicazioni su smartphone o tablet Android
 
-![Lezione 1](https://github.com/rdgmus/Luxemburg/blob/master/images/screenshotLezione1.png)
+![Lezione 1](https://raw.githubusercontent.com/rdgmus/Luxemburg/master/images/screenshotLezione1.png)
