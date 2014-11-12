@@ -4,6 +4,6 @@
 #FILE TRANSFER#
 
 ##Scaricare e installare applicazioni da MAC a dispositivo Android
-![Android File Transfer](https://github.com/rdgmus/Eclipse-Projects/blob/master/Luxemburg/AndroidFileTransfer.png)
+![Android File Transfer](https://raw.githubusercontent.com/rdgmus/Luxemburg/master/images/AndroidFileTransfer.png)
 https://www.android.com/filetransfer/
 
