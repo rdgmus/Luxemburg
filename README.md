@@ -1,4 +1,4 @@
-![Key Orchestra](https://raw.githubusercontent.com/rdgmus/PhpProjects/GitHubPhpRegistroScuola/images/Cbasso1.png)
+![Key Orchestra](https://raw.githubusercontent.com/rdgmus/PhpRegistroWeb-1.0/master/images/Cbasso1.png)
 ![under development](https://raw.githubusercontent.com/rdgmus/Luxemburg/master/images/under%20development.png)
 __[Browse Luxemburg pages](http://rdgmus.github.io/Luxemburg/)__
 ##Corso Android Developer Tools - IPIA ROSA LUXEMBURG 
