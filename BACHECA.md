@@ -5,11 +5,29 @@
 
 Se sei arrivata/o a questa pagina, molto probabilmente sei interessata/o al corso. Qui troverai le comunicazioni dei responsabili del corso agli iscritti.
 
-##~~10 Novembre 2014 - Lezione 1 - 14:30 16:30~~ 
-##17 Novembre 2014 - Lezione 2 - 14:30 16:30 ![prossima lezione](https://github.com/rdgmus/Luxemburg/blob/master/images/next%20lesson.png)
+##~~10 Novembre 2014 - Lezione 1 - 14:30 16:30~~
+```Emulatore``` - ```Android Developer Tools``` - Configurazione del ```layout``` dell'applicazione -
+Link del layout al codice java - cattura dell'evento```onClick()```
+
+##17 Novembre 2014 - Lezione 2 - 14:30 16:30 ![prossima lezione](https://raw.githubusercontent.com/rdgmus/Luxemburg/master/images/next%20lesson.png)
+
+Aggiunta di un ```Menù``` con items
+```AboutUs``` & ```Exit```,  e di un ```Button``` per richiamare il ```Menù```
 
 ####__Aula MAC IPIA ROSA LUXEMBURG MILANO__
 
 **Gianni Natoli - Responsabile del corso**
 
 **Roberto Della Grotta - Docente**
+
+***
+#Domande & Risposte:
+
+>##I download in formato zip o tar.gz sono la stessa cosa?
+
+>I download in formato zip o tar.gz sono la stessa cosa, contengono tutti lo stesso codice tra cui la cartella lezione 1 che va aperta da Android Developer Tools e poi installata sull'emulatore.
+
+>##Dove si scarica il programma ```Android Developer Tools```?
+
+>il programma per sviluppare le applicazioni sulla propria macchina, ```Android Developer Tools```, si scarica da
+http://developer.android.com/sdk/index.html
