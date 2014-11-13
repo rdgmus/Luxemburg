@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">Lezione 2</string>
+    <string name="hello_world">Benvenuti al corso Android</string>
+    <string name="action_settings">Settings</string>
+    <string android:layout_width="wrap_content" android:id="@+id/string1" android:layout_height="wrap_content" name="school">Rosa Luxemburg</string>
+    <string android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/string1" name="lesson">Lezione 2</string>
+
+</resources>
