@@ -5,6 +5,12 @@
 
 Se sei arrivata/o a questa pagina, molto probabilmente sei interessata/o al corso. Qui troverai le comunicazioni dei responsabili del corso agli iscritti.
 
+##Ultima ora...
+>###Installata ```Lezione 2```, ora la potete trovare nello ```ZIP``` che potete scaricare da:
+[http://rdgmus.github.io/Luxemburg/](http://rdgmus.github.io/Luxemburg/)
+
+
+
 ##~~10 Novembre 2014 - Lezione 1 - 14:30 16:30~~
 ```Emulatore``` - ```Android Developer Tools``` - Configurazione del ```layout``` dell'applicazione -
 Link del layout al codice java - cattura dell'evento```onClick()```
