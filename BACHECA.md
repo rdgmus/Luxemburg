@@ -8,8 +8,11 @@ Se sei arrivata/o a questa pagina, molto probabilmente sei interessata/o al cors
 ##Ultima ora...
 >###Installata ```Lezione 2```, ora la potete trovare nello ```ZIP``` che potete scaricare da:
 [http://rdgmus.github.io/Luxemburg/](http://rdgmus.github.io/Luxemburg/)
+***
 
+#Blog:
 
+>##[_```Problematiche``` ```Soluzioni```  ```Richieste```  ```Collaborazioni```_](https://github.com/rdgmus/Luxemburg/issues/)
 
 ##~~10 Novembre 2014 - Lezione 1 - 14:30 16:30~~
 ```Emulatore``` - ```Android Developer Tools``` - Configurazione del ```layout``` dell'applicazione -
