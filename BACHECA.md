@@ -23,11 +23,10 @@ Link del layout al codice java - cattura dell'evento```onClick()```
 Aggiunta di un ```Menù``` con items
 ```AboutUs``` & ```Exit```,  e di un ```Button``` per richiamare il ```Menù```
 
-####__Aula MAC IPIA ROSA LUXEMBURG MILANO__
+|Aula|Responsabile|Docente |
+|----|------------|--------|
+|MAC IPIA ROSA LUXEMBURG MILANO|Gianni Natoli|Roberto Della Grotta |
 
-**Gianni Natoli - Responsabile del corso**
-
-**Roberto Della Grotta - Docente**
 
 ***
 #Domande & Risposte:
