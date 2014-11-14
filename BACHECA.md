@@ -14,6 +14,11 @@ Se sei arrivata/o a questa pagina, molto probabilmente sei interessata/o al cors
 
 >##[_```Problematiche``` ```Soluzioni```  ```Richieste```  ```Collaborazioni```_](https://github.com/rdgmus/Luxemburg/issues/)
 
+|Lezione|Data|Orario|Presenze|
+|-------|----|------|--------|
+|1|~~10 Novembre 2014~~|14:30 16:30|12|
+|2|17 Novembre 2014|14:30 16:30| 0 |
+
 ##~~Lezione 1 - 10 Novembre 2014 - 14:30 16:30~~
 ```Emulatore``` - ```Android Developer Tools``` - Configurazione del ```layout``` dell'applicazione -
 Link del layout al codice java - cattura dell'evento```onClick()```
