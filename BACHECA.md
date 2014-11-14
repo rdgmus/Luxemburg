@@ -40,3 +40,8 @@ Aggiunta di un ```Menù``` con items
 
 >il programma per sviluppare le applicazioni sulla propria macchina, ```Android Developer Tools```, si scarica da
 http://developer.android.com/sdk/index.html
+
+>##Come faccio a far comparire il menù in una pagina?
+
+>Innanzitutto (si puo dire Innanzitutto?), la pagina della quale si vuole aprire il menù, deve contenere un menù, altrimenti non si può visualizzare niente, poi in particolare per far comparire il menù in una pagina che lo preveda, basta premere ```F2```, ma comunque potete trovare tutte le informazioni, riguardanti gli ```Android Emulator Shortcuts``` seguendo questo link:
+[Android Emulator Shortcuts](http://www.shortcutworld.com/en/linux/Android-Emulator.html#link_1)
