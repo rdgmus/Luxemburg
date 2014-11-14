@@ -16,8 +16,8 @@ Se sei arrivata/o a questa pagina, molto probabilmente sei interessata/o al cors
 
 |Lezione|Data|Orario|Presenze|
 |-------|----|------|--------|
-|1|~~10 Novembre 2014~~|14:30 16:30|12|
-|2|17 Novembre 2014|14:30 16:30| 0 |
+|[1](https://github.com/rdgmus/Luxemburg/blob/master/BACHECA.md#lezione-1)|~~10 Novembre 2014~~|14:30 16:30|12|
+|[2](https://github.com/rdgmus/Luxemburg/blob/master/BACHECA.md#lezione-2)|17 Novembre 2014|14:30 16:30| 0 |
 
 ##~~Lezione 1 - 10 Novembre 2014 - 14:30 16:30~~
 ```Emulatore``` - ```Android Developer Tools``` - Configurazione del ```layout``` dell'applicazione -
