@@ -32,7 +32,7 @@ Link del layout al codice java - cattura dell'evento```onClick()```
 lezione](https://raw.githubusercontent.com/rdgmus/Luxemburg/master/images/next%20lesson.png)
 
 Aggiunta di un ```Menù``` con items
-```AboutUs``` & ```Exit```,  e di un ```Button``` per richiamare il ```Menù```
+```AboutUs``` & ```Exit```,  e di un ```Button``` per richiamare il ```Menù```. (questo ```Button``` praticamente inutile perchè i device hanno già questa opzione, viene inserito solo a scopo didattico).
 
 |Aula|Responsabile|Docente |
 |----|------------|--------|
