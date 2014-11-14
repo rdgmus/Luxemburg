@@ -59,4 +59,4 @@ http://developer.android.com/sdk/index.html
 
 ##Quali sono i colori e i relativi valori ```RGB``` di Android?
 
->Vedi la tabella: [ANDROID COLORS](https://raw.githubusercontent.com/rdgmus/Luxemburg/master/ANDROID_COLORS.md) 
+>Vedi la tabella: [ANDROID COLORS](https://github.com/rdgmus/Luxemburg/blob/master/ANDROID_COLORS.md) 
