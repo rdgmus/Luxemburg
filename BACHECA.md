@@ -19,11 +19,15 @@ Se sei arrivata/o a questa pagina, molto probabilmente sei interessata/o al cors
 |[1](https://github.com/rdgmus/Luxemburg/blob/master/BACHECA.md#lezione-1)|~~10 Novembre 2014~~|14:30 16:30|12|
 |[2](https://github.com/rdgmus/Luxemburg/blob/master/BACHECA.md#lezione-2)|17 Novembre 2014|14:30 16:30| 0 |
 
-##~~Lezione 1 - 10 Novembre 2014 - 14:30 16:30~~
+##~~Lezione 1~~
+10 Novembre 2014 - 14:30 16:30
+
 ```Emulatore``` - ```Android Developer Tools``` - Configurazione del ```layout``` dell'applicazione -
 Link del layout al codice java - cattura dell'evento```onClick()```
 
-##Lezione 2 - 17 Novembre 2014 - 14:30 16:30 ![prossima lezione](https://raw.githubusercontent.com/rdgmus/Luxemburg/master/images/next%20lesson.png)
+##Lezione 2
+17 Novembre 2014 - 14:30 16:30 ![prossima
+lezione](https://raw.githubusercontent.com/rdgmus/Luxemburg/master/images/next%20lesson.png)
 
 Aggiunta di un ```Menù``` con items
 ```AboutUs``` & ```Exit```,  e di un ```Button``` per richiamare il ```Menù```
