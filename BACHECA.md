@@ -42,16 +42,16 @@ Aggiunta di un ```Menù``` con items
 ***
 #Domande & Risposte:
 
->##I download in formato zip o tar.gz sono la stessa cosa?
+##I download in formato zip o tar.gz sono la stessa cosa?
 
 >I download in formato zip o tar.gz sono la stessa cosa, contengono tutti lo stesso codice tra cui la cartella lezione 1 che va aperta da Android Developer Tools e poi installata sull'emulatore.
 
->##Dove si scarica il programma ```Android Developer Tools```?
+##Dove si scarica il programma ```Android Developer Tools```?
 
 >il programma per sviluppare le applicazioni sulla propria macchina, ```Android Developer Tools```, si scarica da
 http://developer.android.com/sdk/index.html
 
->##Come far comparire il menù nell'Android Emulator (```AVD```)?
+##Come far comparire il menù nell'Android Emulator (```AVD```)?
 
 >Innanzitutto (si puo dire Innanzitutto?), la pagina della quale si vuole aprire il menù, deve contenere un menù, altrimenti non si può visualizzare niente, poi in particolare per far comparire il menù in una pagina che lo preveda, basta premere ```F2```, ma comunque potete trovare tutte le informazioni, riguardanti gli ```Android Emulator Shortcuts``` seguendo questo link, per tutti i sistemi operativi:
 
