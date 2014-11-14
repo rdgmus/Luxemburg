@@ -56,3 +56,7 @@ http://developer.android.com/sdk/index.html
 >Innanzitutto (si puo dire Innanzitutto?), la pagina della quale si vuole aprire il menù, deve contenere un menù, altrimenti non si può visualizzare niente, poi in particolare per far comparire il menù in una pagina che lo preveda, basta premere ```F2```, ma comunque potete trovare tutte le informazioni, riguardanti gli ```Android Emulator Shortcuts``` seguendo questo link, per tutti i sistemi operativi:
 
 >[Android Emulator Shortcuts](http://www.shortcutworld.com/en/linux/Android-Emulator.html)
+
+##Quali sono i colori e i relativi valori ```RGB``` di Android?
+
+>Vedi la tabella: [ANDROID COLORS](ANDROID_COLORS_md) 
