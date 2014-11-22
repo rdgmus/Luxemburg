@@ -19,7 +19,8 @@ Se sei arrivata/o a questa pagina, molto probabilmente sei interessata/o al cors
 |Lezione|Data|Orario|Presenze|
 |-------|----|------|--------|
 |[1](https://github.com/rdgmus/Luxemburg/blob/master/BACHECA.md#lezione-1)|~~10 Novembre 2014~~|14:30 16:30|12|
-|[2](https://github.com/rdgmus/Luxemburg/blob/master/BACHECA.md#lezione-2)|17 Novembre 2014|14:30 16:30| 0 |
+|[2](https://github.com/rdgmus/Luxemburg/blob/master/BACHECA.md#lezione-2)|~~17 Novembre 2014~~|14:30 16:30| 14 |
+|[3]()|24 Novembre 2014|14:30 16:30| ? |
 
 ###~~Lezione 1~~
 10 Novembre 2014 - 14:30 16:30
@@ -27,12 +28,17 @@ Se sei arrivata/o a questa pagina, molto probabilmente sei interessata/o al cors
 ```Emulatore``` - ```Android Developer Tools``` - Configurazione del ```layout``` dell'applicazione -
 Link del layout al codice java - cattura dell'evento```onClick()```
 
-###Lezione 2
-17 Novembre 2014 - 14:30 16:30 ![prossima
-lezione](https://raw.githubusercontent.com/rdgmus/Luxemburg/master/images/next%20lesson.png)
+###~~Lezione 2~~
+17 Novembre 2014 - 14:30 16:30
 
 Aggiunta di un ```Menù``` con items
 ```AboutUs``` & ```Exit```,  e di un ```Button``` per richiamare il ```Menù```. (questo ```Button``` praticamente inutile perchè i device hanno già questa opzione, viene inserito solo a scopo didattico).
+
+###Lezione 3
+24 Novembre 2014 - 14:30 16:30 ![prossima
+lezione](https://raw.githubusercontent.com/rdgmus/Luxemburg/master/images/next%20lesson.png)
+
+RIPASSO GENERALE - DOMANDE & RISPOSTE
 
 |Aula|Responsabile|Docente |
 |----|------------|--------|
@@ -59,4 +65,4 @@ http://developer.android.com/sdk/index.html
 
 ##Quali sono i colori e i relativi valori ```RGB``` di Android?
 
->Vedi la tabella: [ANDROID COLORS](https://github.com/rdgmus/Luxemburg/blob/master/ANDROID_COLORS.md) 
+>Vedi la tabella: [ANDROID COLORS](https://github.com/rdgmus/Luxemburg/blob/master/ANDROID_COLORS.md)
