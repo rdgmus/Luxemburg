@@ -20,7 +20,8 @@ Se sei arrivata/o a questa pagina, molto probabilmente sei interessata/o al cors
 |-------|----|------|--------|
 |[1](https://github.com/rdgmus/Luxemburg/blob/master/BACHECA.md#lezione-1)|~~10 Novembre 2014~~|14:30 16:30|12|
 |[2](https://github.com/rdgmus/Luxemburg/blob/master/BACHECA.md#lezione-2)|~~17 Novembre 2014~~|14:30 16:30| 14 |
-|[3]()|24 Novembre 2014|14:30 16:30| ? |
+|[3]()|~~24 Novembre 2014~~|14:30 16:30| ? |
+|[4]()|01 Dicembre 2014|14:30 16:30| ? |
 
 ###~~Lezione 1~~
 10 Novembre 2014 - 14:30 16:30
@@ -34,8 +35,13 @@ Link del layout al codice java - cattura dell'evento```onClick()```
 Aggiunta di un ```Menù``` con items
 ```AboutUs``` & ```Exit```,  e di un ```Button``` per richiamare il ```Menù```. (questo ```Button``` praticamente inutile perchè i device hanno già questa opzione, viene inserito solo a scopo didattico).
 
-###Lezione 3
-24 Novembre 2014 - 14:30 16:30 ![prossima
+###~~Lezione 3~~
+24 Novembre 2014 - 14:30 16:30
+
+RIPASSO GENERALE - DOMANDE & RISPOSTE
+
+###Lezione 4
+01 Dicembre 2014 - 14:30 16:30 ![prossima
 lezione](https://raw.githubusercontent.com/rdgmus/Luxemburg/master/images/next%20lesson.png)
 
 RIPASSO GENERALE - DOMANDE & RISPOSTE
