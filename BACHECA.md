@@ -72,3 +72,7 @@ http://developer.android.com/sdk/index.html
 ##Quali sono i colori e i relativi valori ```RGB``` di Android?
 
 >Vedi la tabella: [ANDROID COLORS](https://github.com/rdgmus/Luxemburg/blob/master/ANDROID_COLORS.md)
+
+##Come attivare l'assistente di codice inline in Eclipse IDE?
+
+[![ScreenShot](video/InlineCodeAssist.png)]( http://youtu.be/EUNhvROQJPM)
