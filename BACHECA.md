@@ -20,7 +20,7 @@ Se sei arrivata/o a questa pagina, molto probabilmente sei interessata/o al cors
 |-------|----|------|--------|
 |[1](https://github.com/rdgmus/Luxemburg/blob/master/BACHECA.md#lezione-1)|~~10 Novembre 2014~~|14:30 16:30|12|
 |[2](https://github.com/rdgmus/Luxemburg/blob/master/BACHECA.md#lezione-2)|~~17 Novembre 2014~~|14:30 16:30| 14 |
-|[3]()|~~24 Novembre 2014~~|14:30 16:30| ? |
+|[3]()|~~24 Novembre 2014~~|14:30 16:30| 15 |
 |[4]()|01 Dicembre 2014|14:30 16:30| ? |
 
 ###~~Lezione 1~~
@@ -73,6 +73,12 @@ http://developer.android.com/sdk/index.html
 
 >Vedi la tabella: [ANDROID COLORS](https://github.com/rdgmus/Luxemburg/blob/master/ANDROID_COLORS.md)
 
+#Video inerenti al corso...
+
+##Come creare una nuova Applicazione Android in Eclipse IDE?
+
+[![ScreenShot](https://raw.githubusercontent.com/rdgmus/Luxemburg/master/video/InlineCodeAssist.png)](http://youtu.be/ynEd7VNAZ5Y)
+
 ##Come attivare l'assistente di codice inline in Eclipse IDE?
 
-[![ScreenShot](https://raw.githubusercontent.com/rdgmus/Luxemburg/master/video/InlineCodeAssist.png)]( http://youtu.be/EUNhvROQJPM)
+[![ScreenShot](https://raw.githubusercontent.com/rdgmus/Luxemburg/master/video/InlineCodeAssist.png)]()
