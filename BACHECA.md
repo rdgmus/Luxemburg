@@ -75,10 +75,10 @@ http://developer.android.com/sdk/index.html
 
 #Video inerenti al corso...
 
-##Come creare una nuova Applicazione Android in Eclipse IDE?
+##Come creare una ```Nuova Applicazione Android``` in Eclipse IDE?
 
-[![ScreenShot](https://raw.githubusercontent.com/rdgmus/Luxemburg/master/video/InlineCodeAssist.png)](http://youtu.be/ynEd7VNAZ5Y)
+[![ScreenShot](https://raw.githubusercontent.com/rdgmus/Luxemburg/master/video%20clip/CreaNuovaLezione.png)](http://youtu.be/ynEd7VNAZ5Y)
 
-##Come attivare l'assistente di codice inline in Eclipse IDE?
+##Come attivare l'```Assistente di Codice Inline`` in Eclipse IDE?
 
 [![ScreenShot](https://raw.githubusercontent.com/rdgmus/Luxemburg/master/video/InlineCodeAssist.png)]()
