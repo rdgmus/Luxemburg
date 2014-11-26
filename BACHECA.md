@@ -81,4 +81,5 @@ http://developer.android.com/sdk/index.html
 
 ##Come attivare l'```Assistente di Codice Inline`` in Eclipse IDE?
 
-[![ScreenShot](https://raw.githubusercontent.com/rdgmus/Luxemburg/master/video%20clip/InlineCodeAssist.png)](http://youtu.be/uFNrv4QPUc)
+[![ScreenShot](https://raw.githubusercontent.com/rdgmus/Luxemburg/master/video%20clip/InlineCodeAssist.png
+  )](http://youtu.be/uFNrv4QPUc0)
