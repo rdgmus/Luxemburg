@@ -73,6 +73,18 @@ http://developer.android.com/sdk/index.html
 
 >Vedi la tabella: [ANDROID COLORS](https://github.com/rdgmus/Luxemburg/blob/master/ANDROID_COLORS.md)
 
+##Dove posso scaricare il software Eclipse per lo sviluppo di codice in altri linguaggi?
+
+>Le varie versioni dell'IDE Eclipse si differenziano tra di loro per i plugin installati al loro interno. Ad ogni modo nel link [Eclipse IDE](http://www.eclipse.org/downloads) potete trovare la versione che Vi interessa in base al linguaggio di programmazione che volete utilizzare, per sviluppare il Vs. codice.
+
+##Quando tento di lanciare il mio Android Virtual Device (AVD) l'IDE dice che non trova l'SDK (Software Development Kit). Cosa fare?
+
+>Devi andare nelle preferenze dell'ADT Eclipse:
+```Preferences => Android => SDK Location```
+La SDK Location si trova sotto la cartella dell'ADT Bundle scaricato (il nostro sistema di sviluppo)
+nella cartella SDK. Basta selezionare questa cartella e premere invio. L'ADT dovrebbe riconoscere l'SDK come valido. A questo punto potete chiudere il menù Preferences e lanciare il Vs. AVD. _(Ho usato il verbo al condizionale perchè dipende da quale API Level state utilizzando per creare il codice Android. Potrebbe essere richiesto un upgrade dell'SDK ma non lo consiglio perchè richiede un pò di tempo e pazienza illimitata. Comunque nel nostro corso con l'API Level 19 non dovrebbero, appunto, esserci problemi. Le release di Eclipse sono aggiornate di frequente e potrebbero esserci delle nuove release e nuovi problemi. Se siete in difficoltà usate la release che abbiamo installato nel laboratorio MAC del corso, chiedendo al responsabile di laboratorio o ai docenti. Grazie! )_
+***
+
 #Video CORSO ANDROID-LUXEMBURG
 
 ##Come creare una ```Nuova Applicazione Android``` in Eclipse IDE?
