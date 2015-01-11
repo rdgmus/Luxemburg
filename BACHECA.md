@@ -22,7 +22,8 @@ Se sei arrivata/o a questa pagina, molto probabilmente sei interessata/o al cors
 |[2](https://github.com/rdgmus/Luxemburg/blob/master/BACHECA.md#lezione-2)|~~17 Novembre 2014~~|14:30 16:30| 14 |
 |[3]()|~~24 Novembre 2014~~|14:30 16:30| 15 |
 |[4]()|~~01 Dicembre 2014~~|14:30 16:30| 12 |
-|[5]()|15 Dicembre 2014|14:30 16:30| ? |
+|[5]()|~~15 Dicembre 2014~~|14:30 16:30|  |
+|[6]()|12 Gennaio 2015|14:30 16:30|  |
 
 ###~~Lezione 1~~
 10 Novembre 2014 - 14:30 16:30
@@ -46,11 +47,22 @@ RIPASSO GENERALE - DOMANDE & RISPOSTE
 
 RIPASSO GENERALE - DOMANDE & RISPOSTE
 
-###Lezione 5
-15 Dicembre 2014 - 14:30 16:30 ![prossima
-lezione](https://raw.githubusercontent.com/rdgmus/Luxemburg/master/images/next%20lesson.png)
+###~~Lezione 5~~
+15 Dicembre 2014 - 14:30 16:30
 
 RIPASSO GENERALE - CREAZIONE MENU
+###~~Lezione 6~~
+12 Gennaio 2015 - 14:30 16:30 ![prossima
+lezione](https://raw.githubusercontent.com/rdgmus/Luxemburg/master/images/next%20lesson.png)
+
+Utilizzeremo altri componenti grafici e ne vedremo l'implementazione e utilizzo;
+1. Download di effetti sonori
+2. Caricamento e lancio degli effetti sonori in risposta ad un evento click()
+3. Salvataggio delle preferenze dell'applicazione
+e recupero delle stesse
+4. CheckBox, RadioButton, ToggleButton, ...
+
+
 
 |Aula|Responsabile|Docente |
 |----|------------|--------|
@@ -68,6 +80,13 @@ RIPASSO GENERALE - CREAZIONE MENU
 
 >il programma per sviluppare le applicazioni sulla propria macchina, ```Android Developer Tools```, si scarica da
 http://developer.android.com/sdk/index.html
+###Novità:
+Il sistema di sviluppo che usiamo noi in classe non è più mantenuto da Eclipse (vuol dire che non vi saranno upgrade ulteriori). Ma nessun problema!
+Chi volesse installarlo sul proprio MAC richieda il programma al prof. Della Grotta.
+Sul sito di Eclipse è ora presente un nuovo sistema di sviluppo chiamato ```Android Studio``` che utilizzeremo in eventuali corsi futuri.
+Chi invece utilizza come sistema operativo Windows dovrà seguire le istruzioni sul sito che consistono in:
+1. Effettuare il download e installare Eclipse Luna
+2. Effettuare il download e installare il plugin ```Android Developer Tools```
 
 ##Come far comparire il menù nell'Android Emulator (```AVD```)?
 
