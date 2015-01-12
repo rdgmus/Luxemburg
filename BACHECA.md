@@ -23,7 +23,8 @@ Se sei arrivata/o a questa pagina, molto probabilmente sei interessata/o al cors
 |[3]()|~~24 Novembre 2014~~|14:30 16:30| 15 |
 |[4]()|~~01 Dicembre 2014~~|14:30 16:30| 12 |
 |[5]()|~~15 Dicembre 2014~~|14:30 16:30|  |
-|[6]()|12 Gennaio 2015|14:30 16:30|  |
+|[6]()|~~12 Gennaio 2015~~|14:30 16:30|  |
+|[7]()|19 Gennaio 2015|14:30 16:30|  |
 
 ###~~Lezione 1~~
 10 Novembre 2014 - 14:30 16:30
@@ -52,17 +53,20 @@ RIPASSO GENERALE - DOMANDE & RISPOSTE
 
 RIPASSO GENERALE - CREAZIONE MENU
 ###~~Lezione 6~~
-12 Gennaio 2015 - 14:30 16:30 ![prossima
-lezione](https://raw.githubusercontent.com/rdgmus/Luxemburg/master/images/next%20lesson.png)
+12 Gennaio 2015 - 14:30 16:30
 
-Utilizzeremo altri componenti grafici e ne vedremo l'implementazione e utilizzo;
+Altri componenti grafici : implementazione e sviluppo;
 1. Download di effetti sonori
 2. Caricamento e lancio degli effetti sonori in risposta ad un evento click()
 3. Salvataggio delle preferenze dell'applicazione
 e recupero delle stesse
 4. CheckBox, RadioButton, ToggleButton, ...
 
+###Lezione 7
+19 Gennaio 2015 - 14:30 16:30 ![prossima
+lezione](https://raw.githubusercontent.com/rdgmus/Luxemburg/master/images/next%20lesson.png)
 
+RadioButton, ToggleButton
 
 |Aula|Responsabile|Docente |
 |----|------------|--------|
