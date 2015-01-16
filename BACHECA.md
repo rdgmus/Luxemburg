@@ -22,8 +22,8 @@ Se sei arrivata/o a questa pagina, molto probabilmente sei interessata/o al cors
 |[2](https://github.com/rdgmus/Luxemburg/blob/master/BACHECA.md#lezione-2)|~~17 Novembre 2014~~|14:30 16:30| 14 |
 |[3]()|~~24 Novembre 2014~~|14:30 16:30| 15 |
 |[4]()|~~01 Dicembre 2014~~|14:30 16:30| 12 |
-|[5]()|~~15 Dicembre 2014~~|14:30 16:30|  |
-|[6]()|~~12 Gennaio 2015~~|14:30 16:30|  |
+|[5]()|~~15 Dicembre 2014~~|14:30 16:30| 6 |
+|[6]()|~~12 Gennaio 2015~~|14:30 16:30| 7 |
 |[7]()|19 Gennaio 2015|14:30 16:30|  |
 
 ###~~Lezione 1~~
