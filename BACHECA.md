@@ -24,7 +24,8 @@ Se sei arrivata/o a questa pagina, molto probabilmente sei interessata/o al cors
 |[4]()|~~01 Dicembre 2014~~|14:30 16:30| 12 |
 |[5]()|~~15 Dicembre 2014~~|14:30 16:30| 6 |
 |[6]()|~~12 Gennaio 2015~~|14:30 16:30| 7 |
-|[7]()|19 Gennaio 2015|14:30 16:30|  |
+|[7]()|~~19 Gennaio 2015~~|14:30 16:30| 6 |
+|[8]()|26 Gennaio 2015|14:30 16:30|  |
 
 ###~~Lezione 1~~
 10 Novembre 2014 - 14:30 16:30
@@ -62,8 +63,13 @@ Altri componenti grafici : implementazione e sviluppo;
 e recupero delle stesse
 4. CheckBox, RadioButton, ToggleButton, ...
 
-###Lezione 7
-19 Gennaio 2015 - 14:30 16:30 ![prossima
+###~~Lezione 7~~
+19 Gennaio 2015 - 14:30 16:30
+
+RadioButton, ToggleButton
+
+###Lezione 8
+26 Gennaio 2015 - 14:30 16:30 ![prossima
 lezione](https://raw.githubusercontent.com/rdgmus/Luxemburg/master/images/next%20lesson.png)
 
 RadioButton, ToggleButton
