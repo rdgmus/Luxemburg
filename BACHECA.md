@@ -25,7 +25,8 @@ Se sei arrivata/o a questa pagina, molto probabilmente sei interessata/o al cors
 |[5]()|~~15 Dicembre 2014~~|14:30 16:30| 6 |
 |[6]()|~~12 Gennaio 2015~~|14:30 16:30| 7 |
 |[7]()|~~19 Gennaio 2015~~|14:30 16:30| 6 |
-|[8]()|26 Gennaio 2015|14:30 16:30|  |
+|[8]()|~~26 Gennaio 2015~~|14:30 16:30|  |
+|[9]()| 2 Febbraio 2015|14:30 16:30|  |
 
 ###~~Lezione 1~~
 10 Novembre 2014 - 14:30 16:30
@@ -68,11 +69,16 @@ e recupero delle stesse
 
 RadioButton, ToggleButton
 
-###Lezione 8
-26 Gennaio 2015 - 14:30 16:30 ![prossima
-lezione](https://raw.githubusercontent.com/rdgmus/Luxemburg/master/images/next%20lesson.png)
+###~~Lezione 8~~
+26 Gennaio 2015 - 14:30 16:30
 
 RadioButton, ToggleButton
+
+###Lezione 9
+02 Febbraio 2015 - 14:30 16:30 ![prossima
+lezione](https://raw.githubusercontent.com/rdgmus/Luxemburg/master/images/next%20lesson.png)
+
+Come lanciare una nuova attività e ritornare all'attività precedente recuperando, eventualmente, i risultati forniti dalla stessa.
 
 |Aula|Responsabile|Docente |
 |----|------------|--------|
