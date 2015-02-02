@@ -25,8 +25,26 @@ Se sei arrivata/o a questa pagina, molto probabilmente sei interessata/o al cors
 |[5]()|~~15 Dicembre 2014~~|14:30 16:30| 6 |
 |[6]()|~~12 Gennaio 2015~~|14:30 16:30| 7 |
 |[7]()|~~19 Gennaio 2015~~|14:30 16:30| 6 |
-|[8]()|~~26 Gennaio 2015~~|14:30 16:30|  |
-|[9]()| 2 Febbraio 2015|14:30 16:30|  |
+|[8]()|~~26 Gennaio 2015~~|14:30 16:30| 5 |
+|[9]()|~~2 Febbraio 2015~~|14:30 16:30| 4 |
+
+##Era l'ultima lezione....
+>Ringrazio i partecipanti, il prof. Natoli e il tecnico di lab. Cristina dell'IPIA Rosa Luxemburg per la collaborazione
+A chi volesse approfondire l'argomento consiglio:
+##1. JAVA
+###di Ken Arnold e James Gosling
+###ed. Addison-Wesley
+###ISBN: 88-7192-058-9
+##2. Sams Teach Yourself XML in 21 Days
+###di Steven Holzner
+[Sams Teach Yourself XML in 21 Days - {Leggi OnLine}](http://www.onlineprogrammingbooks.com/essential-xml-quick-reference/)
+##3. mybringback
+ [Tutorial](http://www.mybringback.com/series/android-basics/)
+Lezioni sulla programmazione in Android (in Inglese o meglio Inglese Americano) circa 40 lezioni video
+pubblicate anche su youtube
+
+#Saluti a tutti!!!
+
 
 ###~~Lezione 1~~
 10 Novembre 2014 - 14:30 16:30
@@ -74,9 +92,12 @@ RadioButton, ToggleButton
 
 RadioButton, ToggleButton
 
-###Lezione 9
-02 Febbraio 2015 - 14:30 16:30 ![prossima
+###~~Lezione 9~~
+02 Febbraio 2015 - 14:30 16:30
+
+![prossima
 lezione](https://raw.githubusercontent.com/rdgmus/Luxemburg/master/images/next%20lesson.png)
+#??? 
 
 Come lanciare una nuova attività e ritornare all'attività precedente recuperando, eventualmente, i risultati forniti dalla stessa.
 
